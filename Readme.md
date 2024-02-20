@@ -1,4 +1,3 @@
-
 # Bevy엔진 예제 탐구 (2d기즈모)
 
 ## 목차
@@ -34,3 +33,5 @@
 ![자료화면](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_2d_gizmos/6.webp)
 - 완성된 변형 예제의 사진은 다음과 같다. 이제 여기서 방향키로 선과 네모 및 원을 움직일 수 있다.
 ![자료화면](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_2d_gizmos/7.webp)
+- 실제 실행 화면은 다음과 같다
+- ![자료화면](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_2d_gizmos/8.gif)
