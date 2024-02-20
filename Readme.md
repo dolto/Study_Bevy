@@ -35,3 +35,10 @@
 ![자료화면](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_2d_gizmos/7.webp)
 - 실제 실행 화면은 다음과 같다
 - ![자료화면](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_2d_gizmos/8.gif)
+
+### 결론
+- 요즘들어 게임 개발자가 되고 싶다는 사람이 자꾸 웹 쪽으로 가는 것 같아서 이런거라도 해야한다고 생각이 들었기에 시작한 프로젝트였다.
+- 개발하는 과정을 실제로 녹화하며, 쉬는 시간 중간중간 일시정지를 눌렀더라도, 한시간 정도 공부하면 예제 하나정도는 읽을 수 있다는 결론이 나왔기에, 지속적으로 공부해볼 생각이다.
+- 코드를 읽는 것만으로 끝내지 않아야 한다는 생각이 강하게 들었다. 왜냐하면 update_config함수는 마지막에 추가했는데, 그 전까지는 기즈모 그룹이 어떻게, 그리고 왜 쓰이는지 잘 이해가 가지 않았다가, 이를 직접 코드로 작성하다보니 놓친 부분들을 너무 많이 발견하게 되었기 때문이다.
+
+[깃허브 링크](https://github.com/dolto/bevy_study_2d_gizmos)
