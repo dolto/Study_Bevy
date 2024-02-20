@@ -41,4 +41,4 @@
 - 개발하는 과정을 실제로 녹화하며, 쉬는 시간 중간중간 일시정지를 눌렀더라도, 한시간 정도 공부하면 예제 하나정도는 읽을 수 있다는 결론이 나왔기에, 지속적으로 공부해볼 생각이다.
 - 코드를 읽는 것만으로 끝내지 않아야 한다는 생각이 강하게 들었다. 왜냐하면 update_config함수는 마지막에 추가했는데, 그 전까지는 기즈모 그룹이 어떻게, 그리고 왜 쓰이는지 잘 이해가 가지 않았다가, 이를 직접 코드로 작성하다보니 놓친 부분들을 너무 많이 발견하게 되었기 때문이다.
 
-[깃허브 링크](https://github.com/dolto/bevy_study_2d_gizmos)
+[블로그 링크]([https://github.com/dolto/bevy_study_2d_gizmos](https://portfolio-user-6e57lkist-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d48a6e59d81604cf34bd33)https://portfolio-user-6e57lkist-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d48a6e59d81604cf34bd33)
