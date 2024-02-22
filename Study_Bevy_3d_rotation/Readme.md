@@ -22,9 +22,9 @@
 - 읽어도 무슨말인지 잘 모르겠어서 다음과 같은 테스트 코드를 작성해 보았다.
 ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/3.5.webp)
 - 실행 화면
-![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/4.webp)
+- ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/4.webp)
 - 이게 looking_to
-![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/5.webp)
+- ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/5.webp)
 - 이게 looking_at
 - 얼핏 보면 looking_to는 아무것도 동작하지 않은 것 같지만, looking_to는 말 그대로 Vec::ZERO를 향해 바라보되, 각도를 조절하지 않는 다는 점에서 차이가 있었던 것이다.
 
