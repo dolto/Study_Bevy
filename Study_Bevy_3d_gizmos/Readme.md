@@ -34,4 +34,4 @@
 - 기즈모는 이번에 세번째라서 딱히 큰 실수는 없었으나, 리소스 등록에 약간의 문제가 있어서 조금 헤맨정도로 예제분석을 마칠 수 있었다.
 - 논외지만, 사용중인 helix 에디터도 점점 손에 익어가는 느낌이라 좋았다 
 
-[블로그 링크](https://portfolio-user-o0cqsbyye-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d6d09e7504c636dcd64c7e)
+[블로그 링크](https://portfolio-user-kohl.vercel.app/?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d6d09e7504c636dcd64c7e)
