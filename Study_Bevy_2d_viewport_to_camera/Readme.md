@@ -37,4 +37,4 @@
 - 그러나 예제의 주제를 표현하기 위해 이전에 배운 기즈모가 활용 되어서 그에 관련한 기능을 추가하는 부분에서 실수가 많이 나왔기 때문에, 그 실수를 바로 잡을 수 있는 기회가 되기도 했다.
 - 앞으로도 이렇게 bevy 예제를 하나씩 분석할 생각이다.
 
-[블로그 링크](https://portfolio-user-o0cqsbyye-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d5ccca8aa2756414842ac7)
+[블로그 링크](https://portfolio-user-kohl.vercel.app/?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d5ccca8aa2756414842ac7)
