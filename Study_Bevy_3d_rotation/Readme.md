@@ -1,4 +1,4 @@
-# Bevy엔진 예제 탐구 (3d 기즈모)
+# Bevy엔진 예제 탐구 (3d 로테이션)
 
 ## 목차
 1. 소개
@@ -22,9 +22,9 @@
 - 읽어도 무슨말인지 잘 모르겠어서 다음과 같은 테스트 코드를 작성해 보았다.
 ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/3.5.webp)
 - 실행 화면
-![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/4.webp)
+- ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/4.webp)
 - 이게 looking_to
-![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/5.webp)
+- ![자료사진](https://raw.githubusercontent.com/dolto/port_folio_imgs/master/icon/projectsite/Study_Bevy_3d_rotation/5.webp)
 - 이게 looking_at
 - 얼핏 보면 looking_to는 아무것도 동작하지 않은 것 같지만, looking_to는 말 그대로 Vec::ZERO를 향해 바라보되, 각도를 조절하지 않는 다는 점에서 차이가 있었던 것이다.
 
@@ -34,4 +34,4 @@
 ### 결론
 - 사소한 거라도 다시보면 몰랐던 개념에 대해서 알게 될 수도 있으니, example은 그래왔든 계속 이럴 것이다. (아는거라고 넘어갔다가 나중에 후회할 일 만드는 것 보다 같은거 숙달하는게 더 좋아보인다.)
 
-[블로그 링크](https://portfolio-user-o0cqsbyye-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d73b95451edd16029acd7b)
+[블로그 링크](https://portfolio-user-kohl.vercel.app/?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d73b95451edd16029acd7b)

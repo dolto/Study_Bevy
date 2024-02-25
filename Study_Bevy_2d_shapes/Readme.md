@@ -44,4 +44,4 @@
 - 그러나 정리 글을 쓰면서, 코드 안에 나온 개념의 키워드를 검색하고 이를 이해하려고 하였지만, 애초에 검색 키워드가 잘못 되었다는 것이 있었다는 것을 알고, 중간에 한번 더 검색하고 코드를 다시 읽어보았다. (Assets< Mesh >를 보고 Mesh를 키워드로 검색할 게 아니라 Assets을 먼저 봤어야 했다.)
 - 대강 분석하고 넘어가는 느낌이 있으나, 예제 코드는 매우 많고, 궁금하다고 파다보면 끝도 없기 때문에, (어떤 자산에 대한 핸들에도 강한 참조와 약한 참조나 다른 뻗어나갈 정보들이 많았다.) 중간에 일단 멈춘 거기도 하다. (단순하게 예제코드에서 바라는 것은 활용법을 이해하기만 하면 되는 것 같았기 때문에 멈춘 거기도 하다.)
 
-[블로그 링크](https://portfolio-user-6e57lkist-doltos-projects.vercel.app/project?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d57614f787a0687c520a56)
+[블로그 링크](https://portfolio-user-kohl.vercel.app/?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65d57614f787a0687c520a56)
