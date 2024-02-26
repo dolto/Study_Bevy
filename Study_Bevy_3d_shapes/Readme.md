@@ -42,3 +42,5 @@
 ### 결론
 - 이번 탐구는 그래픽스와 관련된 부분이 많았기 때문에 찾아볼 정보들이 많았다.
 - 이제 여기서 에셋을 이용해서 실제 사진이나 혹은 텍스쳐를 이용한 애니메이션 등은 어떻게 만드는지, 또 머터리얼을 이용한 깊이 효과는 어떻게 하는건지 궁금증이 많이 생기는 탐구였다.
+
+[블로그 링크](https://portfolio-user-2vzdm67p8-doltos-projects.vercel.app/?is_blog=true&langs_slecets=[]&skills_slects=[]&project_id=65dae5d4cfd3f178261bb5d0)
