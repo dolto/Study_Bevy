@@ -1,0 +1,27 @@
+[package]
+name = "Study_Bevy"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+  "Study_Bevy_align",
+  "Study_Bevy_3d_scene",
+  "Study_Bevy_2d_shapes",
+  "Study_Bevy_3d_gizmos",
+  "Study_Bevy_2d_gizmos",
+  "Study_Bevy_3d_shapes",
+  "Study_Bevy_anisotropy",
+  "Study_Bevy_3d_rotation",
+  "Study_Bevy_animated_fox",
+  "Study_Bevy_animate_shader",
+  "Study_Bevy_animation_graph",
+  "Study_Bevy_alien_cake_addict",
+  "Study_Bevy_animated_material",
+  "Study_Bevy_animated_transform",
+  "Study_Bevy_3d_viewport_to_world",
+  "Study_Bevy_2d_viewport_to_world", "Study_Bevy_anti_aliasing",  
+]
+[dependencies]
+bevy = "0.14.2"
+rand = "0.8.5"
