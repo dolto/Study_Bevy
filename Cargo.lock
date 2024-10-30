@@ -146,6 +146,32 @@ dependencies = [
 ]
 
 [[package]]
+name = "Study_Bevy_array_texture"
+version = "0.1.0"
+dependencies = [
+ "bevy 0.14.2",
+ "rand",
+]
+
+[[package]]
+name = "Study_Bevy_asset_decompression"
+version = "0.1.0"
+dependencies = [
+ "bevy 0.14.2",
+ "flate2",
+ "rand",
+ "thiserror",
+]
+
+[[package]]
+name = "Study_Bevy_asset_loading"
+version = "0.1.0"
+dependencies = [
+ "bevy 0.14.2",
+ "rand",
+]
+
+[[package]]
 name = "ab_glyph"
 version = "0.2.29"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -20,7 +20,7 @@ members = [
   "Study_Bevy_animated_material",
   "Study_Bevy_animated_transform",
   "Study_Bevy_3d_viewport_to_world",
-  "Study_Bevy_2d_viewport_to_world", "Study_Bevy_anti_aliasing",  
+  "Study_Bevy_2d_viewport_to_world", "Study_Bevy_anti_aliasing", "Study_Bevy_array_texture", "Study_Bevy_asset_decompression", "Study_Bevy_asset_loading",  
 ]
 [dependencies]
 bevy = "0.14.2"
