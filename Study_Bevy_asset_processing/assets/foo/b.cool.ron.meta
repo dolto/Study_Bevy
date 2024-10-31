@@ -1,0 +1,7 @@
+(
+    meta_format_version: "1.0",
+    asset: Load(
+        loader: "Study_Bevy_asset_processing::TextLoader",
+        settings: (),
+    ),
+)

@@ -1,0 +1,6 @@
+Begin foo/b.cool.ron
+Begin foo/c.cool.ron
+End foo/b.cool.ron
+End foo/c.cool.ron
+Begin a.cool.ron
+End a.cool.ron

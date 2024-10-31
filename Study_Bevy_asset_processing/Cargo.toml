@@ -1,0 +1,10 @@
+[package]
+name = "Study_Bevy_asset_processing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.14.2", features = ["file_watcher", "asset_processor"] }
+rand = "0.8.5"
+serde = "1.0.214"
+thiserror = "1.0.65"
